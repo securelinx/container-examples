@@ -18,3 +18,5 @@ To test, log out and log back in (for the group membership to update) and run:
 * https://rancher.com/learning-paths/how-to-build-and-run-your-own-container-images/
 * https://github.com/docker-library/hello-world
 * https://documentation.suse.com/sles/15-SP2/single-html/SLES-container/#book-container
+* https://docs.docker.com/develop/dev-best-practices/
+* https://cloud.google.com/architecture/best-practices-for-building-containers
