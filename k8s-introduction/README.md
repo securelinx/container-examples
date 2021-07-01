@@ -12,7 +12,7 @@ A private registry was deployed to the environment based on https://hub.docker.c
 This file describes a single pod instance of the rails-app. To run:
 
     kubectl apply -f rails-app-pod.yaml
-    kubectl describe pod/my-rails-apply
+    kubectl describe pod/my-rails-app
 
  and to expose with a NodePort service
 
